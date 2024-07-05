@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T23:51:06.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="fjpDs5AyDk6CBHR54scZ" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-05T23:51:31.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ch69xd7xOIkwQtX-cQTf" version="24.6.4" type="github" pages="2">
   <diagram name="Diagrama ER" id="3sf-a_kbNnBAUmqeplsu">
     <mxGraphModel dx="2718" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,8 +182,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FXwQrZZ2cBkdufWIMOTY" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="FXwQrZZ2cBkdufWIMOTY" name="Modelo Relacioal">
+    <mxGraphModel dx="1494" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
