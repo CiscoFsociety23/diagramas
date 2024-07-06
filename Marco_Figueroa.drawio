@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T01:35:39.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="RbLCBltBrguOcW2_Msdd" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-06T01:39:18.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="CMmwwe_1nEdWW7FmYn4Y" version="24.6.4" type="github" pages="2">
   <diagram name="Diagrama ER" id="3sf-a_kbNnBAUmqeplsu">
     <mxGraphModel dx="2718" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="u17t9FuC817BPyeznjmQ-63" value="Clientes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89.94" y="1391" width="140" height="130" as="geometry" />
+          <mxGeometry x="10" y="1391" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="u17t9FuC817BPyeznjmQ-64" value="IdCliente" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u17t9FuC817BPyeznjmQ-63" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
